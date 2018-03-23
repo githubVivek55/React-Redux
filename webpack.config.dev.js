@@ -1,6 +1,8 @@
 import webpack from 'webpack';
 import path from 'path';
 
+/*eslint-disable import/default*/
+
 export default {
     debug: true, //this enable displaying debug information
     devtool: 'inline-source-map',
